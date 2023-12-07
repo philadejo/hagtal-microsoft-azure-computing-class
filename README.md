@@ -1,0 +1,1 @@
+# hagtal-microsoft-azure-computing-class
